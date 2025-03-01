@@ -1,7 +1,7 @@
 welcome_message = 'The lady said : "come inside the classroom!"'
 print(welcome_message)
 welcome_message = 'The man said : "Bring in Jason\s"'
-print(5<4)
+print(5<4) # random comment line
 List_of_fruits= ["Apple", "Banana", "Pawpaw"]
 print(List_of_fruits)
 mixed_list=[1,2.3, list_of_fruits]
